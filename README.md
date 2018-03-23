@@ -1,0 +1,2 @@
+# xbee_padding_application
+An application that allow two XBee SC2 to communicate. It simulates the exchanging of packets between devices of different manufacturers (Philips Hue, Yale Door Lock and so on). A padding mechanism is implemented to fix a problem discovered after the analysis of sequences of packets during the communication of the devices mentioned above . The application also has the code to switch ON a led via Raspberry pi 3, to test the padding mechanism.
